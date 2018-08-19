@@ -1,0 +1,55 @@
+html {
+  font-family: helvetica;
+  background-image: url("file:///D:/projects/DAC/resources/images/bg.jpg");
+  background-size: cover;
+  opacity: 0.95;
+}
+
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  opacity: 0.75;
+}
+
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+
+.price {
+  color: blue;
+}
+
+
+.img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h3 {
+  text-align: center;
+}
